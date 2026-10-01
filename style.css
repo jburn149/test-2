@@ -1,0 +1,49 @@
+body {
+font-family: Verdana, sans-serif;
+background-color: #ede99f;
+}
+h1,h2,h3,h4,h5,h6 {
+font-family: Georgia, serif;
+color: #f0a543;
+}
+h1 {
+text-align: center;
+}
+h2 {
+border-top: solid 2px #ed7842;
+padding-top: 1em;
+}
+em {
+font-weight: bold;
+font-size: 120%;
+}
+blockquote {
+background: #F0ECEC;
+margin:1em;
+font-style: italic;
+colour: #787675;
+}
+.firstLetter {
+font-size: 300%;
+font-family: Georgia, serif;
+color: #787675;
+}
+.firstWord{
+text-transform: uppercase;
+}
+#firstStory {
+color:#17037A;
+}
+#navigation {
+font-family: Georgia, serif; font-size: 100%;
+border-top: solid 2px #ed7842;
+border-bottom: solid 2px #ed7842;
+}
+li {
+display: inline;
+list-style-type: none;
+}
+a { 
+    font-family: bold;
+    colour: #ed7842;
+}
